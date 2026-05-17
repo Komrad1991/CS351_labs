@@ -7,3 +7,4 @@ plotly
 missingno
 pandas
 scikit-learn
+tensorflow
